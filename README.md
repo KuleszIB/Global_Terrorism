@@ -17,6 +17,6 @@ Project is created with:
 * libraries i.a. pandas, pyplot, numpy, seaborn
 	
 ## Setup
-To run this project , save it ("Global_Terrorism_Database_Project.ipynb") on your computer. The most important thing is to install mentioned environment from https://www.anaconda.com/distribution/. Download data sets, Global Terrorism Database from https://www.kaggle.com/START-UMD/gtd and Happiness Index Database from https://www.kaggle.com/unsdsn/world-happiness or use samples available (globalterrorismdb_0718dist.csv, 2016.csv) in repository. 
+To run this project , save it ("Global_Terrorism_Database_Project.ipynb") on your computer. The most important thing is to install mentioned environment from https://www.anaconda.com/distribution/. Download data sets, Global Terrorism Database from https://www.kaggle.com/START-UMD/gtd and Happiness Index Database from https://www.kaggle.com/unsdsn/world-happiness or use samples (globalterrorismdb_0718dist.csv, 2016.csv) available  in the repository. 
 
 Open jupyter notebook through anaconda and choose the project. Wait for the file will be loaded and click Kernel and then Restart & Run All.
